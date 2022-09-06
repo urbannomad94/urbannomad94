@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidan!</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🌱 I’m currently learning and React**
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **aidanw4@gmail.com**
 
