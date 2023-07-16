@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidan!</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🌱 I’m currently learning **Redux and TypeScript**
+- 🌱 I’m currently learning **NextJS 13 and TypeScript**
 
 - 📫 How to reach me **aidanw4@gmail.com**
 
